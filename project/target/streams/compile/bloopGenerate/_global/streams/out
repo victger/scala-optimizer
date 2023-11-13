@@ -1,0 +1,4 @@
+[debug] [scala-optimizer-build] Classpath dependencies List()
+[debug] [scala-optimizer-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala-optimizer-build' to 'C:\Users\yanis\OneDrive\Documents\ESIEE\E5\C-Scala\scala-optimizer\project\.bloop\scala-optimizer-build.json'
+[success] Generated .bloop\scala-optimizer-build.json
